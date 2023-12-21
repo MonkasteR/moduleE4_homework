@@ -14,7 +14,3 @@ lamp = toys(300, true);
 console.log(pot);
 console.log(pc);
 console.log(lamp);
-
-
-
-
